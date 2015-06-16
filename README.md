@@ -1,7 +1,7 @@
 # pruebasConcepto
-Esto es un repositorio donde guardio algunas pruebas de concepto
+Esto es un repositorio donde guardo algunas pruebas de concepto
 
-En este repositorio subo pruebas que voy haciendo. Son codigos muy inutiles. 
+En este repositorio subo pruebas que voy haciendo. Son códigos muy simples. 
 
-Algunos no creo que sivan mucho sólo para ver como se hacen ciertas cosas. 
+Algunos no creo que sivan para mucho sólo para ver como se hacen ciertas cosas. 
 
